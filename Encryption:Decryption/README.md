@@ -69,31 +69,7 @@ This application provides a user-friendly graphical interface for encrypting and
 
 The application can also be run from the command line, but the GUI provides the best user experience.
 
-📁 Project Structure
-
-Encryption:Decryption/
-├── README.md                          # This file
-├── .gitignore                         # Git ignore rules
-├── src/                               # Source code
-│   └── main/
-│       └── java/
-│           └── com/
-│               └── aaronk/
-│                   └── encryption/    # Main package
-│                       ├── EncryptionApp.java      # Application entry point
-│                       ├── EncryptionController.java # Business logic controller
-│                       ├── EncryptionModel.java    # Encryption/decryption logic
-│                       └── EncryptionView.java     # GUI components
-├── resources/     # Application resources
-│   ├── pi_digits.txt  # Pi digits for encryption keys
-│   └── sample_files/  # Sample files for testing (Feel Free to add your own!)
-│       ├── Romans12.txt
-│       ├── KnockDrawRelease.txt
-│       └── CloseToYou.txt
-└── build/                             # Compiled classes (auto-generated)
-```
-
-## 🏗️ Architecture
+🏗️ Architecture
 
 This application follows the **Model-View-Controller (MVC)** design pattern:
 
