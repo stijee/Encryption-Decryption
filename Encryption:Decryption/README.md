@@ -2,19 +2,6 @@ Encryption/Decryption Application
 
 This is a  Java program that encrypts and decrypts files using a dynamic key sequence derived from the digits of Pi.
 
--=- Table of Contents -=-
-
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Architecture](#architecture)
-- [Sample Files](#sample-files)
-- [Technical Details](#technical-details)
-- [Author](#author)
-
 🔍 Overview
 
 This application provides a user-friendly graphical interface for encrypting and decrypting text files using a unique encryption algorithm based on the mathematical constant Pi (π). The encryption process uses the digits of Pi as a dynamic key sequence, making it both mathematically interesting and secure.
